@@ -1,2 +1,13 @@
-# Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means
-Repository per il progetto di Principi e Modelli della Percezione trattasi le modalità di percezione umana dei dot patterns mediante la legge della Gestalt della prossimità e la loro riproduzione algoritmica.
+# Dot Patterns Perceptual Grouping RDG vs K-means
+Repository for the Principles and Models of Perception project, addressing the human perception of Dot Patterns through the laws of the Gestalt and their algorithmic reproduction.
+
+<img src = 'https://https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/Dot_Face.PNG'>
+
+# Libraries used:
+numpy
+scipy
+matplotlib
+sklearn
+
+# Instructions:
+In notebook.ipynb execute all the code snippets from the beginning.

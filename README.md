@@ -24,7 +24,7 @@ In notebook.ipynb execute all the code snippets from the beginning.
 
 The following paragraphs explain the various functions in the notebook. To avoid repetition, here are explained the most common parameters that can be found:
 
-- points (np.array): the number of points considered to plot for generating or plotting a dataset.
+- points (np.array): the number of points considered for generating or plotting a dataset.
 - noise_factor (float): how much the points are scattered in generating a dataset.
 
 `generate_face(points, noise_factor=0.01):`

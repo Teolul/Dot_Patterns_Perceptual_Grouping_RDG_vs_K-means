@@ -2,8 +2,8 @@
 
 Repository for the Principles and Models of Perception project, addressing the human perception of Dot Patterns through the laws of the Gestalt and their algorithmic reproduction.\
 Furthermore, an implementation of G. Papari and N. Petkov's algorithm is proposed. This is used to compute and show a Reduced Delaunay Graph that approximates how a human perceives Dot Patterns. The implementation is based on Papari and Petkov's paper "Algorithm That Mimics Human Perceptual Grouping of Dot Patterns" for the Institute of Mathematics and Computing Science in the University of Groningen.\
-Link to the paper: (https://www.cs.rug.nl/~petkov/publications/2005LNCS3704_grouping_dots.pdf)\
-A summarized explanation of the algorithm, among other things, can be found in the presentation file in this repository.
+A summarized explanation of the algorithm, among other things, can be found in the presentation file in this repository.\
+Link to the paper: (https://www.cs.rug.nl/~petkov/publications/2005LNCS3704_grouping_dots.pdf)
 
 | ![Image 1](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/Dot_Face.PNG "Image showing a dotted face.") | ![Image 2](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/RDG_Face.PNG "Image showing a dotted face connected with a Reduced Delaunay Graph.") | ![Image 3](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/KMeans_Face.PNG "Image showing a dotted face clustered with the K-Means algorithm.") |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

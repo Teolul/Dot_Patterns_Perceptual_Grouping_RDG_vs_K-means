@@ -5,8 +5,11 @@ Furthermore, an implementation of G. Papari and N. Petkov's algorithm is propose
 A summarized explanation of the algorithm, among other things, can be found in the presentation file in this repository.\
 Link to the paper: https://www.cs.rug.nl/~petkov/publications/2005LNCS3704_grouping_dots.pdf
 
-| ![Image 1](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/Dot_Face.PNG "Image showing a dotted face.") | ![Image 2](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/RDG_Face.PNG "Image showing a dotted face connected with a Reduced Delaunay Graph.") | ![Image 3](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/KMeans_Face.PNG "Image showing a dotted face clustered with the K-Means algorithm.") |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Link to the Google Slides presentation in Italian: https://docs.google.com/presentation/d/1gU4DdQmeBwjRghgNckoXqe1z2C823ul-mzq3W7HbTIo/edit?usp=sharing
+
+Link to the Google Slides presentation in English: https://docs.google.com/presentation/d/1yELGL9EbTdOBSm8ia-DKzZKWTdArHPNjfCTun1iTgjc/edit?usp=sharing
+
+![Image 1](https://github.com/Teolul/Dot_Patterns_Perceptual_Grouping_RDG_vs_K-means/blob/main/faces.PNG "Image showing a dotted face, a dotted face connected with a Reduced Delaunay Graph and a dotted face clustered with the K-Means algorithm side by side.")
 
 ## Libraries used:
 

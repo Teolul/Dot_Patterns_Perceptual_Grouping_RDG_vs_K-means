@@ -1,6 +1,6 @@
 # Dot Patterns Perceptual Grouping: RDG vs K-means
 
-Repository for the Principles and Models of Perception project, addressing the human perception of Dot Patterns through the laws of the Gestalt and their algorithmic reproduction.\
+University project about the principles and models of human perception, addressing the human perception of Dot Patterns through the Gestalt laws and their algorithmic reproduction.\
 Furthermore, an implementation of G. Papari and N. Petkov's algorithm is proposed. This is used to compute and show a Reduced Delaunay Graph that approximates how a human perceives Dot Patterns. The implementation is based on Papari and Petkov's paper "Algorithm That Mimics Human Perceptual Grouping of Dot Patterns" for the Institute of Mathematics and Computing Science in the University of Groningen.\
 A summarized explanation of the algorithm, among other things, can be found in the presentation file in this repository.\
 Link to the paper: https://www.cs.rug.nl/~petkov/publications/2005LNCS3704_grouping_dots.pdf
